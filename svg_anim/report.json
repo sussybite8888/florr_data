@@ -1,0 +1,787 @@
+{
+ "rock": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "cactus": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "ladybug": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "bee": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "ant_baby": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "ant_worker": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "ant_soldier": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "ant_queen": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "ant_hole": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "beetle": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "hornet": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "centipede": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_body": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_evil": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_evil_body": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_desert": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_desert_body": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "square": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "ladybug_dark": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "ladybug_shiny": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "spider": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "scorpion": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "fire_ant_soldier": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "fire_ant_burrow": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "sandstorm": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "bubble": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "bumble_bee": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "shell": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "starfish": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "crab": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "jellyfish": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "digger": {
+  "animated": true,
+  "phase_offset": "0x14",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "sponge": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "leech": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "leech_body": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "dandelion": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "fire_ant_baby": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "fire_ant_worker": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "fire_ant_queen": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "ant_egg": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "fire_ant_egg": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "fly": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "leafbug": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "mantis": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "termite_baby": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "termite_worker": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "termite_soldier": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "termite_overmind": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "termite_mound": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "termite_egg": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "bush": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "roach": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "moth": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "firefly": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "beetle_hel": {
+  "animated": true,
+  "phase_offset": "0x18",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "wasp": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "dummy": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "spider_hel": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_hel": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "centipede_hel_body": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "wasp_hel": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "trader": {
+  "animated": true,
+  "phase_offset": "0x20",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "gambler": {
+  "animated": true,
+  "phase_offset": "0x20",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "oracle": {
+  "animated": true,
+  "phase_offset": "0x18",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "firefly_magic": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "titan": {
+  "animated": true,
+  "phase_offset": "0x20",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "beetle_nazar": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "worm": {
+  "animated": true,
+  "phase_offset": "0x20",
+  "distinct": 2,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "worm_guts": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "mecha_flower": {
+  "animated": true,
+  "phase_offset": "0x18",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "wasp_mecha": {
+  "animated": false,
+  "policy": [
+   0,
+   0,
+   false
+  ]
+ },
+ "spider_mecha": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   0,
+   0,
+   true
+  ]
+ },
+ "leafbug_shiny": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "crab_mecha": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   false
+  ]
+ },
+ "assembler": {
+  "animated": true,
+  "self_driven": true,
+  "loop_ms": 1047.198,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "barrel": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "beetle_mummy": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "beetle_pharaoh": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "tomb": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "silverfish": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "garbage": {
+  "animated": false,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ },
+ "ant_soldier_diver": {
+  "animated": true,
+  "phase_offset": "0x10",
+  "distinct": 3,
+  "frames": 12,
+  "policy": [
+   1,
+   0,
+   true
+  ]
+ }
+}

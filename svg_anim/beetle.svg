@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-36.5 -30.25 93.176 60.5">
+  <title>beetle (mob id 10, 12 frames)</title>
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;0;0;0;0;0;0;0;0;0;0;0;1" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.625 -0.004 0.004 0.625 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.625 -0.004 0.004 0.625 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0.004 -0.004 0.625 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.625 0.004 -0.004 0.625 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.625 -0.015 0.015 0.625 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.625 -0.015 0.015 0.625 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0.015 -0.015 0.625 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.625 0.015 -0.015 0.625 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.624 -0.031 0.031 0.624 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.624 -0.031 0.031 0.624 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.624 0.031 -0.031 0.624 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.624 0.031 -0.031 0.624 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;1;0;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.623 -0.052 0.052 0.623 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.623 -0.052 0.052 0.623 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.623 0.052 -0.052 0.623 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.623 0.052 -0.052 0.623 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.621 -0.073 0.073 0.621 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.621 -0.073 0.073 0.621 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.621 0.073 -0.073 0.621 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.621 0.073 -0.073 0.621 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;1;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.618 -0.093 0.093 0.618 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.618 -0.093 0.093 0.618 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.618 0.093 -0.093 0.618 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.618 0.093 -0.093 0.618 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.615 -0.11 0.11 0.615 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.615 -0.11 0.11 0.615 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.615 0.11 -0.11 0.615 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.615 0.11 -0.11 0.615 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.613 -0.12 0.12 0.613 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.613 -0.12 0.12 0.613 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.613 0.12 -0.12 0.613 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.613 0.12 -0.12 0.613 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.613 -0.124 0.124 0.613 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.613 -0.124 0.124 0.613 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.613 0.124 -0.124 0.613 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.613 0.124 -0.124 0.613 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.613 -0.12 0.12 0.613 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.613 -0.12 0.12 0.613 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.613 0.12 -0.12 0.613 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.613 0.12 -0.12 0.613 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;1;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.615 -0.11 0.11 0.615 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.615 -0.11 0.11 0.615 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.615 0.11 -0.11 0.615 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.615 0.11 -0.11 0.615 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;1;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <g transform="matrix(0.618 -0.093 0.093 0.618 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.618 -0.093 0.093 0.618 21.875 0)"><path d="M -10 15 Q 15 30 35 15 Q 15 20 -10 5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.618 0.093 -0.093 0.618 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="#333333"/></g>
+    <g transform="matrix(0.618 0.093 -0.093 0.618 21.875 0)"><path d="M -10 -15 Q 15 -30 35 -15 Q 15 -20 -10 -5 Z" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="#905DB0"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M0-30Q40-30 40 0 40 30 0 30-40 30-40 0-40-30 0-30Z" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M-20 0Q0 -3 20 0" fill="none" stroke="#754B8F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -22 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 -15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M -5 15 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 -12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    <g transform="matrix(0.625 0 0 0.625 0 0)"><path d="M 12 12 a 5 5 0 1 0 10 0 a 5 5 0 1 0 -10 0 Z" fill="#754B8F"/></g>
+    </g>
+</svg>

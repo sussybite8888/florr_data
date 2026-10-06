@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-35.75 -31.319 61.25 63.434">
+  <title>fly (mob id 42, 12 frames)</title>
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;0;0;0;0;0;0;0;0;0;0;0;1" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(1 -0.009 0.009 1 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(1 0.009 -0.009 1 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1;0;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.999 -0.037 0.037 0.999 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.999 0.037 -0.037 0.999 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.997 -0.078 0.078 0.997 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.997 0.078 -0.078 0.997 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;1;0;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.992 -0.129 0.129 0.992 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.992 0.129 -0.129 0.992 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;0;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.983 -0.183 0.183 0.983 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.983 0.183 -0.183 0.983 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;1;0;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.972 -0.233 0.233 0.972 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.972 0.233 -0.233 0.972 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;1;0;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.962 -0.274 0.274 0.962 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.962 0.274 -0.274 0.962 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;0;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.954 -0.3 0.3 0.954 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.954 0.3 -0.3 0.954 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;0;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.951 -0.309 0.309 0.951 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.951 0.309 -0.309 0.951 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1;0;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.954 -0.3 0.3 0.954 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.954 0.3 -0.3 0.954 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;1;0;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.962 -0.274 0.274 0.962 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.962 0.274 -0.274 0.962 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;0;0;1;0" keyTimes="0;0.083;0.167;0.25;0.333;0.417;0.5;0.583;0.667;0.75;0.833;0.917;1" dur="1.2s" calcMode="discrete" repeatCount="indefinite"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="#555555"/>
+    <path d="M -14 0 a 14 14 0 1 0 28 0 a 14 14 0 1 0 -28 0 Z" fill="none" stroke="#454545" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="matrix(0.972 -0.233 0.233 0.972 0 0)"><path d="M -18.413 -11.708 a 12 9 18 1 0 22.825 7.416 a 12 9 18 1 0 -22.825 -7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    <g transform="matrix(0.972 0.233 -0.233 0.972 0 0)"><path d="M -18.413 11.708 a 12 9 -18 1 0 22.825 -7.416 a 12 9 -18 1 0 -22.825 7.416 Z" fill="#EEEEEE" fill-opacity="0.498"/></g>
+    </g>
+</svg>
