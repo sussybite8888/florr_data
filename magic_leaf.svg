@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-29.5 -21.501 54 43.002">
+  <title>magic_leaf (mob id 85)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-15 0 -20 0" fill="none" stroke="#35B8C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-15 0c5-12 20-12 30 0C5 12-10 12-15 0Z" fill="#42E3F5"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-15 0c5-12 20-12 30 0C5 12-10 12-15 0Z" fill="none" stroke="#35B8C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-9 0Q 0 -1.5 7.5 0" fill="none" stroke="#35B8C6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

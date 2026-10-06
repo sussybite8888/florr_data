@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-21.498 -21.502 42.997 43.003">
+  <title>yin_yang (mob id 19)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -12 0 a 12 12 0 1 0 24 0 a 12 12 0 1 0 -24 0 Z" fill="#FFFFFF"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 -12 A 12 12 0 0 1 0 12" fill="#333333"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -6 6 a 6 6 0 1 0 12 0 a 6 6 0 1 0 -12 0 Z" fill="#333333"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -6 -6 a 6 6 0 1 0 12 0 a 6 6 0 1 0 -12 0 Z" fill="#FFFFFF"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 -12 A 12 12 0 0 1 12 0" fill="none" stroke="#292929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 12 A 12 12 0 0 1 0 -12" fill="none" stroke="#CFCFCF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 12 0 A 12 12 0 0 1 0 12" fill="none" stroke="#292929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 12 A 6 6 0 0 1 0 0" fill="none" stroke="#292929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 -12 A 6 6 0 0 1 0 0" fill="none" stroke="#CFCFCF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

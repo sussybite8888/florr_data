@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-19.807 -20.413 41.907 40.824">
+  <title>talisman (mob id 68)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 5.4 0 C 10.374 2.103 6.049 8.409 -6.3 10.912 L -2.7 4.677 C -7.008 7.932 -10.307 1.034 -6.3 -10.912 L -2.7 -4.677 C -3.366 -10.035 4.258 -9.443 12.6 0 L 5.4 0 Z" fill="#FFF824"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 5.4 0 C 10.374 2.103 6.049 8.409 -6.3 10.912 L -2.7 4.677 C -7.008 7.932 -10.307 1.034 -6.3 -10.912 L -2.7 -4.677 C -3.366 -10.035 4.258 -9.443 12.6 0 L 5.4 0 Z" fill="none" stroke="#CFC91D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -3.5 0 a 3.5 3.5 0 1 0 7 0 a 3.5 3.5 0 1 0 -7 0 Z" fill="#37CF37"/></g>
+  </g>
+</svg>

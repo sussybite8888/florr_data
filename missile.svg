@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-21.5 -16.5 43 33">
+  <title>missile (mob id 9)</title>
+  <g>
+    <path d="M 11 0 L -11 -6 L -11 6 Z" fill="#333333"/>
+    <path d="M 11 0 L -11 -6 L -11 6 Z" fill="none" stroke="#333333" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

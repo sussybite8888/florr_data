@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-24 -18 45 35">
+  <title>shovel (mob id 73)</title>
+  <g>
+    <path d="M-12-3 7-3 7 3-12 3Z" fill="#7D5B1F"/>
+    <path d="M-12-3 7-3 7 3-12 3Z" fill="none" stroke="#654A19" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12-9A1 1 0 0112 8L7 8 7-9Z" fill="#555555"/>
+    <path d="M12-9A1 1 0 0112 8L7 8 7-9Z" fill="none" stroke="#454545" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-12-4-12 4-15 4-15-4Z" fill="#555555"/>
+    <path d="M-12-4-12 4-15 4-15-4Z" fill="none" stroke="#454545" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

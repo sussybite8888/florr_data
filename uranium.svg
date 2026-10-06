@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-84.56 -84.582 169.121 169.163">
+  <title>uranium (mob id 39)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-7-5-1-9 7-6 9 3 2 9-5 6-8 2Z" fill="#63BF2E"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-7-5-1-9 7-6 9 3 2 9-5 6-8 2Z" fill="none" stroke="#509B25" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -75.071 0 a 75.071 75.071 0 1 0 150.142 0 a 75.071 75.071 0 1 0 -150.142 0 Z" fill="#63BF2E" fill-opacity="0.098"/></g>
+  </g>
+</svg>

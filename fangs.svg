@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-22.5 -16.501 45 33.002">
+  <title>fangs (mob id 42)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 13 0 L 4.95 4.95 A 7 7 0 0 1 -4.95 4.95 L -13 0 L -4.95 -4.95 A 7 7 0 0 1 4.95 -4.95 Z" fill="#9C1010"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 13 0 L 4.95 4.95 A 7 7 0 0 1 -4.95 4.95 L -13 0 L -4.95 -4.95 A 7 7 0 0 1 4.95 -4.95 Z" fill="none" stroke="#7E0D0D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

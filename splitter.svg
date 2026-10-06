@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-19.512 -18.223 36.956 36.191">
+  <title>splitter (mob id 115)</title>
+  <g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 -7.515 -0.606)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#111111"/></g>
+    <g transform="matrix(0.669 -0.207 0.207 0.669 -7.515 -0.606)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#EEEEEE"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 -7.515 -0.606)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="none" stroke="#111111" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 1.847 -3.502)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#111111"/></g>
+    <g transform="matrix(0.669 -0.207 0.207 0.669 1.847 -3.502)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#EEEEEE"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 1.847 -3.502)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="none" stroke="#111111" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.669 -0.207 0.207 0.669 0.269 7.977)"><path d="M -6 0 Q 0 -4 6 0" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 -3.916 -3.185)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#111111"/></g>
+    <g transform="matrix(0.669 -0.207 0.207 0.669 -3.916 -3.185)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#EEEEEE"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 -3.916 -3.185)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="none" stroke="#111111" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 5.446 -6.081)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#111111"/></g>
+    <g transform="matrix(0.669 -0.207 0.207 0.669 5.446 -6.081)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#EEEEEE"/></g>
+    <g transform="matrix(0.669 -0.207 0.414 1.337 5.446 -6.081)"><path d="M -3 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="none" stroke="#111111" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.669 -0.207 0.207 0.669 3.868 5.398)"><path d="M -6 0 Q 0 -4 6 0" fill="none" stroke="#111111" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

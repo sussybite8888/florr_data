@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-29.5 -21.501 54 43.002">
+  <title>dead_leaf (mob id 114)</title>
+  <defs>
+    <clipPath id="d1"><path d="M-15 0c5-12 20-12 30 0C5 12-10 12-15 0Z"/></clipPath>
+    <clipPath id="d2"><path d="M-15 0c5-12 20-12 30 0C5 12-10 12-15 0Z"/></clipPath>
+  </defs>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-15 0 -20 0" fill="none" stroke="#6E6E6E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><g clip-path="url(#d1)"><path d="M-15 0c5-12 20-12 30 0C5 12-10 12-15 0Z M 2.5 7.5 a 2.5 2.5 0 1 0 5 0 a 2.5 2.5 0 1 0 -5 0 Z M -11.5 -7.4 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill-rule="evenodd" fill="#888888"/></g></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><g clip-path="url(#d2)"><path d="M-15 0c5-12 20-12 30 0C5 12-10 12-15 0Z M 2.5 7.5 a 2.5 2.5 0 1 0 5 0 a 2.5 2.5 0 1 0 -5 0 Z M -11.5 -7.4 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill-rule="evenodd" fill="none" stroke="#6E6E6E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M-9 0Q 0 -1.5 7.5 0" fill="none" stroke="#6E6E6E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

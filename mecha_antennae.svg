@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-31.5 -35.5 63 55">
+  <title>mecha_antennae (mob id 100)</title>
+  <g>
+    <g transform="matrix(0 -1 -1 0 -5 10)"><path d="M0 0Q15 5 33 14 15 0 0 0Z M0 0Q15 5 33 14 15 0 0 0Z" fill="none" fill-rule="nonzero" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0 -1 -1 0 -5 10)"><path d="M 30 14 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#CF0000"/></g>
+    <g transform="matrix(0 -1 -1 0 -5 10)"><path d="M 31 14 a 2 2 0 1 0 4 0 a 2 2 0 1 0 -4 0 Z" fill="#FF0000"/></g>
+    <g transform="matrix(0 -1 1 0 5 10)"><path d="M0 0Q15 5 33 14 15 0 0 0Z M0 0Q15 5 33 14 15 0 0 0Z" fill="none" fill-rule="nonzero" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0 -1 1 0 5 10)"><path d="M 30 14 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#CF0000"/></g>
+    <g transform="matrix(0 -1 1 0 5 10)"><path d="M 31 14 a 2 2 0 1 0 4 0 a 2 2 0 1 0 -4 0 Z" fill="#FF0000"/></g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-27.5 -22 49.5 44">
+  <title>dandelion (mob id 15)</title>
+  <g>
+    <path d="M0 0 -16 0" fill="none" stroke="#333333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M -10.5 0 a 10.5 10.5 0 1 0 21 0 a 10.5 10.5 0 1 0 -21 0 Z" fill="#CFCFCF"/>
+    <path d="M -7.5 0 a 7.5 7.5 0 1 0 15 0 a 7.5 7.5 0 1 0 -15 0 Z" fill="#FFFFFF"/>
+  </g>
+</svg>

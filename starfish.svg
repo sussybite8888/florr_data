@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-28 -18 86 36">
+  <title>starfish (mob id 31)</title>
+  <g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 0 -5 Q 60 0 0 5 Z" fill="#A9403E"/></g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 0 -5 Q 60 0 0 5 Z" fill="none" stroke="#A9403E" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 0 -5 Q 60 0 0 5 Z" fill="#D14F4D"/></g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 0 -5 Q 60 0 0 5 Z" fill="none" stroke="#D14F4D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 23 0 a 2 2 0 1 0 4 0 a 2 2 0 1 0 -4 0 Z" fill="#D4766C"/></g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 15 0 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#D4766C"/></g>
+    <g transform="matrix(1 0 0 1 -15 0)"><path d="M 5 0 a 4 4 0 1 0 8 0 a 4 4 0 1 0 -8 0 Z" fill="#D4766C"/></g>
+  </g>
+</svg>

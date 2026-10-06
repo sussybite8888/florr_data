@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-20.5 -11.5 46.354 23">
+  <title>laser (mob id 101)</title>
+  <g>
+    <path d="M 13.146 0 a 2.354 2.354 0 1 0 4.708 0 a 2.354 2.354 0 1 0 -4.708 0 Z" fill="#FF0000"/>
+    <path d="M -12.5 -3.5 H 12.5 V 3.5 H -12.5 Z" fill="#646464"/>
+    <path d="M -12.5 -3.5 H 12.5 V 3.5 H -12.5 Z" fill="#7C7C7C"/>
+  </g>
+</svg>

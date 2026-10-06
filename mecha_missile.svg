@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-36.9 -18.5 56.2 37">
+  <title>mecha_missile (mob id 95)</title>
+  <g>
+    <g transform="matrix(0.8 0 0 0.8 0 0)"><path d="M -13 -7 L -33 0 L -13 7 Z" fill="#EB4C34"/></g>
+    <g transform="matrix(0.8 0 0 0.8 0 0)"><path d="M -13 -2.1 L -19 0 L -13 2.1 Z" fill="#EBE834"/></g>
+    <g transform="matrix(0.8 0 0 0.8 0 0)"><path d="M11 0-11-10-11 10Z" fill="none" stroke="#7C7C7C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0.8 0 0 0.8 0 0)"><path d="M11 0-11-10-11 10Z" fill="#999999"/></g>
+    <g transform="matrix(0.8 0 0 0.8 0 0)"><path d="M -2 0 a 2 2 0 1 0 4 0 a 2 2 0 1 0 -4 0 Z" fill="#CF0000"/></g>
+    <g transform="matrix(0.8 0 0 0.8 0 0)"><path d="M -1.333 0 a 1.333 1.333 0 1 0 2.666 0 a 1.333 1.333 0 1 0 -2.666 0 Z" fill="#FF0000"/></g>
+  </g>
+</svg>

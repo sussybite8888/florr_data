@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-17.999 -18.001 35.997 36.003">
+  <title>dice (mob id 67)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -10 -10 H 10 V 10 H -10 Z" fill="#FFFFFF"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -10 -10 H 10 V 10 H -10 Z" fill="#CFCFCF"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M -6.2 -4 a 2.2 2.2 0 1 0 4.4 0 a 2.2 2.2 0 1 0 -4.4 0 Z" fill="#777777"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 1.8 4 a 2.2 2.2 0 1 0 4.4 0 a 2.2 2.2 0 1 0 -4.4 0 Z" fill="#777777"/></g>
+  </g>
+</svg>

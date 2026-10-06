@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-14.501 -18.161 34.001 36.32">
+  <title>triangle (mob id 106)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 10 0 L -5 8.66 L -5 -8.66 Z" fill="#FFFFFF"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 10 0 L -5 8.66 L -5 -8.66 Z" fill="none" stroke="#CFCFCF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

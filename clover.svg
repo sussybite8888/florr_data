@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-30.649 -30.653 64.649 64.653">
+  <title>clover (mob id 46)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 0 C 25 0 0 25 0 0 Z C -12.5 21.651 -21.651 -12.5 0 0 Z C -12.5 -21.651 21.651 -12.5 0 0 Z" fill="#39B54A"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 0 0 C 25 0 0 25 0 0 Z C -12.5 21.651 -21.651 -12.5 0 0 Z C -12.5 -21.651 21.651 -12.5 0 0 Z" fill="none" stroke="#2E933C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

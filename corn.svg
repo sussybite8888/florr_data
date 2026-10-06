@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-34.5 -22.6 69 45.2">
+  <title>corn (mob id 25)</title>
+  <g>
+    <g transform="matrix(1.7 0 0 1.7 0 0)"><path d="M -5 8 Q -15 -8 0 -8 Q 15 -8 5 8 Q 0 2 -5 8 Z" fill="#FFE419"/></g>
+    <g transform="matrix(1.7 0 0 1.7 0 0)"><path d="M -5 8 Q -15 -8 0 -8 Q 15 -8 5 8 Q 0 2 -5 8 Z" fill="none" stroke="#CFB914" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

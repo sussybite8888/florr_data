@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-19.5 -23.5 39 38">
+  <title>pincer (mob id 27)</title>
+  <g>
+    <path d="M 10 5 Q 4 -14 -10 5 Q 4 0 10 5 Z" fill="#333333"/>
+    <path d="M 10 5 Q 4 -14 -10 5 Q 4 0 10 5 Z" fill="none" stroke="#292929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-21.5 -21.5 43 43">
+  <title>magic_bubble (mob id 91)</title>
+  <g>
+    <path d="M -12 0 a 12 12 0 1 0 24 0 a 12 12 0 1 0 -24 0 Z" fill="none" stroke="#42E3F5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.698"/>
+    <path d="M -10.5 0 a 10.5 10.5 0 1 0 21 0 a 10.5 10.5 0 1 0 -21 0 Z" fill="#42E3F5" fill-opacity="0.349"/>
+    <path d="M 1 -4 a 3 3 0 1 0 6 0 a 3 3 0 1 0 -6 0 Z" fill="#42E3F5" fill-opacity="0.349"/>
+  </g>
+</svg>

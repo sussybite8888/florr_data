@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-24.5 -24.5 49 49">
+  <title>wing (mob id 8)</title>
+  <g>
+    <path d="M 0 -15 A 15 15 0 0 1 0 15 Q 10 0 0 -15 Z" fill="#FFFFFF"/>
+    <path d="M 0 -15 A 15 15 0 0 1 0 15 Q 10 0 0 -15 Z" fill="none" stroke="#CFCFCF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
