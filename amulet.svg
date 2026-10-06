@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-19.5 -18.161 39 36.321">
+  <title>amulet (mob id 70)</title>
+  <g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 10 0 L 5 8.66 L -5 8.66 L -10 0 L -5 -8.66 L 5 -8.66 Z" fill="#FF94C9"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 10 0 L 5 8.66 L -5 8.66 L -10 0 L -5 -8.66 L 5 -8.66 Z" fill="none" stroke="#CF78A3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 4 0 L 1.236 3.804 L -3.236 2.351 L -3.236 -2.351 L 1.236 -3.804 Z" fill="#CF78A3"/></g>
+    <g transform="matrix(1 0 -0 1 0 0)"><path d="M 4 0 L 1.236 3.804 L -3.236 2.351 L -3.236 -2.351 L 1.236 -3.804 Z" fill="none" stroke="#CF78A3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

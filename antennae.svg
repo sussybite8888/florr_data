@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="-24.5 -24.5 49 44">
+  <title>antennae (mob id 17)</title>
+  <g>
+    <g transform="matrix(0 -1 -1 0 -5 10)"><path d="M0 0Q15 5 25 10 15 0 0 0Z M0 0Q15 5 25 10 15 0 0 0Z" fill="none" fill-rule="nonzero" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <g transform="matrix(0 -1 1 0 5 10)"><path d="M0 0Q15 5 25 10 15 0 0 0Z M0 0Q15 5 25 10 15 0 0 0Z" fill="none" fill-rule="nonzero" stroke="#111111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>
