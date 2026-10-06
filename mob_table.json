@@ -1,0 +1,666 @@
+[
+ {
+  "id": 0,
+  "name": "none",
+  "fac": null,
+  "pat": "A",
+  "vtable": null,
+  "objsize": null
+ },
+ {
+  "id": 1,
+  "name": "rock",
+  "fac": 4302416896,
+  "pat": "A",
+  "vtable": 4310819336,
+  "objsize": 64
+ },
+ {
+  "id": 2,
+  "name": "cactus",
+  "fac": 4302416960,
+  "pat": "A",
+  "vtable": 4310819440,
+  "objsize": 64
+ },
+ {
+  "id": 3,
+  "name": "ladybug",
+  "fac": 4302417024,
+  "pat": "A",
+  "vtable": 4310819584,
+  "objsize": 16
+ },
+ {
+  "id": 4,
+  "name": "bee",
+  "fac": 4302417072,
+  "pat": "A",
+  "vtable": 4310819688,
+  "objsize": 16
+ },
+ {
+  "id": 5,
+  "name": "ant_baby",
+  "fac": 4302417120,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 6,
+  "name": "ant_worker",
+  "fac": 4302417184,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 7,
+  "name": "ant_soldier",
+  "fac": 4302417248,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 8,
+  "name": "ant_queen",
+  "fac": 4302417312,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 9,
+  "name": "ant_hole",
+  "fac": 4302417376,
+  "pat": "B",
+  "vtable": 4310819968,
+  "objsize": 16
+ },
+ {
+  "id": 10,
+  "name": "beetle",
+  "fac": 4302419760,
+  "pat": "B",
+  "vtable": 4310820072,
+  "objsize": 32
+ },
+ {
+  "id": 11,
+  "name": "hornet",
+  "fac": 4302420080,
+  "pat": "A",
+  "vtable": 4310820176,
+  "objsize": 16
+ },
+ {
+  "id": 12,
+  "name": "centipede",
+  "fac": 4302420128,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 13,
+  "name": "centipede_body",
+  "fac": 4302420176,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 14,
+  "name": "centipede_evil",
+  "fac": 4302420224,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 15,
+  "name": "centipede_evil_body",
+  "fac": 4302420272,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 16,
+  "name": "centipede_desert",
+  "fac": 4302420320,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 17,
+  "name": "centipede_desert_body",
+  "fac": 4302420368,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 18,
+  "name": "square",
+  "fac": 4302420416,
+  "pat": "B",
+  "vtable": 4310820384,
+  "objsize": 16
+ },
+ {
+  "id": 19,
+  "name": "ladybug_dark",
+  "fac": 4302420464,
+  "pat": "B",
+  "vtable": 4310819584,
+  "objsize": 16
+ },
+ {
+  "id": 20,
+  "name": "ladybug_shiny",
+  "fac": 4302420512,
+  "pat": "B",
+  "vtable": 4310819584,
+  "objsize": 16
+ },
+ {
+  "id": 21,
+  "name": "spider",
+  "fac": 4302420560,
+  "pat": "A",
+  "vtable": 4310820488,
+  "objsize": 56
+ },
+ {
+  "id": 22,
+  "name": "scorpion",
+  "fac": 4302420640,
+  "pat": "A",
+  "vtable": 4310820592,
+  "objsize": 56
+ },
+ {
+  "id": 23,
+  "name": "fire_ant_soldier",
+  "fac": 4302420704,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 24,
+  "name": "fire_ant_burrow",
+  "fac": 4302420768,
+  "pat": "B",
+  "vtable": 4310819968,
+  "objsize": 16
+ },
+ {
+  "id": 25,
+  "name": "sandstorm",
+  "fac": 4302420816,
+  "pat": "A",
+  "vtable": 4310820736,
+  "objsize": 24
+ },
+ {
+  "id": 26,
+  "name": "bubble",
+  "fac": 4302420864,
+  "pat": "A",
+  "vtable": 4310820840,
+  "objsize": 16
+ },
+ {
+  "id": 27,
+  "name": "bumble_bee",
+  "fac": 4302420912,
+  "pat": "A",
+  "vtable": 4310820944,
+  "objsize": 16
+ },
+ {
+  "id": 28,
+  "name": "shell",
+  "fac": 4302420960,
+  "pat": "A",
+  "vtable": 4310821048,
+  "objsize": 16
+ },
+ {
+  "id": 29,
+  "name": "starfish",
+  "fac": 4302421008,
+  "pat": "A",
+  "vtable": 4310821152,
+  "objsize": 48
+ },
+ {
+  "id": 30,
+  "name": "crab",
+  "fac": 4302421072,
+  "pat": "A",
+  "vtable": 4310821256,
+  "objsize": 48
+ },
+ {
+  "id": 31,
+  "name": "jellyfish",
+  "fac": 4302421152,
+  "pat": "A",
+  "vtable": 4310821360,
+  "objsize": 24
+ },
+ {
+  "id": 32,
+  "name": "digger",
+  "fac": 4302421200,
+  "pat": "B",
+  "vtable": 4310821464,
+  "objsize": 64
+ },
+ {
+  "id": 33,
+  "name": "sponge",
+  "fac": 4302421280,
+  "pat": "A",
+  "vtable": 4310821568,
+  "objsize": 16
+ },
+ {
+  "id": 34,
+  "name": "leech",
+  "fac": 4302421328,
+  "pat": "B",
+  "vtable": 4310821672,
+  "objsize": 24
+ },
+ {
+  "id": 35,
+  "name": "leech_body",
+  "fac": 4302421392,
+  "pat": "B",
+  "vtable": 4310821672,
+  "objsize": 24
+ },
+ {
+  "id": 36,
+  "name": "dandelion",
+  "fac": 4302421456,
+  "pat": "A",
+  "vtable": 4310821776,
+  "objsize": 16
+ },
+ {
+  "id": 37,
+  "name": "fire_ant_baby",
+  "fac": 4302421504,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 38,
+  "name": "fire_ant_worker",
+  "fac": 4302421568,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 39,
+  "name": "fire_ant_queen",
+  "fac": 4302421632,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 2305163312
+ },
+ {
+  "id": 40,
+  "name": "ant_egg",
+  "fac": 4302421696,
+  "pat": "A",
+  "vtable": 4310821880,
+  "objsize": 2305163312
+ },
+ {
+  "id": 41,
+  "name": "fire_ant_egg",
+  "fac": 4302421744,
+  "pat": "A",
+  "vtable": 4310821880,
+  "objsize": 2305163312
+ },
+ {
+  "id": 42,
+  "name": "fly",
+  "fac": 4302421792,
+  "pat": "A",
+  "vtable": 4310821984,
+  "objsize": 2305163312
+ },
+ {
+  "id": 43,
+  "name": "leafbug",
+  "fac": 4302421856,
+  "pat": "B",
+  "vtable": 4310822088,
+  "objsize": 56
+ },
+ {
+  "id": 44,
+  "name": "mantis",
+  "fac": 4302421920,
+  "pat": "A",
+  "vtable": 4310822192,
+  "objsize": 48
+ },
+ {
+  "id": 45,
+  "name": "termite_baby",
+  "fac": 4302421984,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 46,
+  "name": "termite_worker",
+  "fac": 4302422048,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 47,
+  "name": "termite_soldier",
+  "fac": 4302422112,
+  "pat": "A",
+  "vtable": 4310819792,
+  "objsize": 24
+ },
+ {
+  "id": 48,
+  "name": "termite_overmind",
+  "fac": 4302422176,
+  "pat": "A",
+  "vtable": 4310822296,
+  "objsize": 32
+ },
+ {
+  "id": 49,
+  "name": "termite_mound",
+  "fac": 4302422240,
+  "pat": "B",
+  "vtable": 4310819968,
+  "objsize": 16
+ },
+ {
+  "id": 50,
+  "name": "termite_egg",
+  "fac": 4302422288,
+  "pat": "A",
+  "vtable": 4310821880,
+  "objsize": 16
+ },
+ {
+  "id": 51,
+  "name": "bush",
+  "fac": 4302422336,
+  "pat": "A",
+  "vtable": 4310822400,
+  "objsize": 16
+ },
+ {
+  "id": 52,
+  "name": "roach",
+  "fac": 4302422384,
+  "pat": "A",
+  "vtable": 4310822504,
+  "objsize": 16
+ },
+ {
+  "id": 53,
+  "name": "moth",
+  "fac": 4302422432,
+  "pat": "A",
+  "vtable": 4310822608,
+  "objsize": 32
+ },
+ {
+  "id": 54,
+  "name": "firefly",
+  "fac": 4302422496,
+  "pat": "B",
+  "vtable": 4310822712,
+  "objsize": 24
+ },
+ {
+  "id": 55,
+  "name": "beetle_hel",
+  "fac": 4302422560,
+  "pat": "A",
+  "vtable": 4310820072,
+  "objsize": 32
+ },
+ {
+  "id": 56,
+  "name": "wasp",
+  "fac": 4302422624,
+  "pat": "A",
+  "vtable": 4310820176,
+  "objsize": 16
+ },
+ {
+  "id": 57,
+  "name": "dummy",
+  "fac": 4302422672,
+  "pat": "B",
+  "vtable": 4310822816,
+  "objsize": 144
+ },
+ {
+  "id": 58,
+  "name": "spider_hel",
+  "fac": 4302422768,
+  "pat": "A",
+  "vtable": 4310820488,
+  "objsize": 56
+ },
+ {
+  "id": 59,
+  "name": "centipede_hel",
+  "fac": 4302422848,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 60,
+  "name": "centipede_hel_body",
+  "fac": 4302422896,
+  "pat": "B",
+  "vtable": 4310820280,
+  "objsize": 16
+ },
+ {
+  "id": 61,
+  "name": "wasp_hel",
+  "fac": 4302422944,
+  "pat": "A",
+  "vtable": 4310820176,
+  "objsize": 16
+ },
+ {
+  "id": 62,
+  "name": "trader",
+  "fac": 4302422992,
+  "pat": "B",
+  "vtable": 4310822920,
+  "objsize": 152
+ },
+ {
+  "id": 63,
+  "name": "gambler",
+  "fac": 4302423088,
+  "pat": "B",
+  "vtable": 4310823024,
+  "objsize": 152
+ },
+ {
+  "id": 64,
+  "name": "oracle",
+  "fac": 4302423184,
+  "pat": "B",
+  "vtable": 4310823128,
+  "objsize": 152
+ },
+ {
+  "id": 65,
+  "name": "firefly_magic",
+  "fac": 4302423280,
+  "pat": "B",
+  "vtable": 4310822712,
+  "objsize": 24
+ },
+ {
+  "id": 66,
+  "name": "titan",
+  "fac": 4302423344,
+  "pat": "B",
+  "vtable": 4310823232,
+  "objsize": 152
+ },
+ {
+  "id": 67,
+  "name": "beetle_nazar",
+  "fac": 4302423440,
+  "pat": "B",
+  "vtable": 4310820072,
+  "objsize": 32
+ },
+ {
+  "id": 68,
+  "name": "worm",
+  "fac": 4302423504,
+  "pat": "A",
+  "vtable": 4310823336,
+  "objsize": 136
+ },
+ {
+  "id": 69,
+  "name": "worm_guts",
+  "fac": 4302423760,
+  "pat": "B",
+  "vtable": 4310823440,
+  "objsize": 24
+ },
+ {
+  "id": 70,
+  "name": "mecha_flower",
+  "fac": 4302423808,
+  "pat": "B",
+  "vtable": 4310823544,
+  "objsize": 152
+ },
+ {
+  "id": 71,
+  "name": "wasp_mecha",
+  "fac": 4302423904,
+  "pat": "B",
+  "vtable": 4310820176,
+  "objsize": 16
+ },
+ {
+  "id": 72,
+  "name": "spider_mecha",
+  "fac": 4302423952,
+  "pat": "B",
+  "vtable": 4310820488,
+  "objsize": 56
+ },
+ {
+  "id": 73,
+  "name": "leafbug_shiny",
+  "fac": 4302424032,
+  "pat": "B",
+  "vtable": 4310822088,
+  "objsize": 56
+ },
+ {
+  "id": 74,
+  "name": "crab_mecha",
+  "fac": 4302424096,
+  "pat": "B",
+  "vtable": 4310821256,
+  "objsize": 48
+ },
+ {
+  "id": 75,
+  "name": "assembler",
+  "fac": 4302424176,
+  "pat": "B",
+  "vtable": 4310823648,
+  "objsize": 48
+ },
+ {
+  "id": 76,
+  "name": "barrel",
+  "fac": 4302424976,
+  "pat": "A",
+  "vtable": 4310823752,
+  "objsize": 24
+ },
+ {
+  "id": 77,
+  "name": "beetle_mummy",
+  "fac": 4302425040,
+  "pat": "B",
+  "vtable": 4310820072,
+  "objsize": 32
+ },
+ {
+  "id": 78,
+  "name": "beetle_pharaoh",
+  "fac": 4302425104,
+  "pat": "B",
+  "vtable": 4310820072,
+  "objsize": 32
+ },
+ {
+  "id": 79,
+  "name": "tomb",
+  "fac": 4302425168,
+  "pat": "A",
+  "vtable": 4310823856,
+  "objsize": 16
+ },
+ {
+  "id": 80,
+  "name": "silverfish",
+  "fac": 4302425216,
+  "pat": "A",
+  "vtable": 4310824032,
+  "objsize": 40
+ },
+ {
+  "id": 81,
+  "name": "garbage",
+  "fac": 4302425280,
+  "pat": "A",
+  "vtable": 4310824208,
+  "objsize": 16
+ },
+ {
+  "id": 82,
+  "name": "ant_soldier_diver",
+  "fac": 4302425328,
+  "pat": "B",
+  "vtable": 4310819792,
+  "objsize": 24
+ }
+]
